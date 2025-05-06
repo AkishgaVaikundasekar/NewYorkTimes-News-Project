@@ -21,8 +21,8 @@ This is a simple front-end project that fetches and displays the latest top stor
 
 1. Go to [https://developer.nytimes.com](https://developer.nytimes.com)
 2. Sign up for a free account
-3. Click on “Apps” > “+ Create App”
-4. Choose the **Top Stories API**
+3. Click on “Apps” > “+ Add App”
+4. Enable the **Top Stories API**
 5. Copy your API key
 
 When you open the app, it will ask you to paste your API key once. The key will be saved temporarily in your browser for that session.
@@ -35,7 +35,7 @@ When you open the app, it will ask you to paste your API key once. The key will 
 ## 🌐 Hosting
 
 This site is hosted using GitHub Pages:  
-👉 [INSERT-YOUR-GITHUB-PAGES-LINK-HERE]
+https://akishgavaikundasekar.github.io/NewYorkTimes-News-Project/
 
 ## 👩‍💻 Technologies Used
 
