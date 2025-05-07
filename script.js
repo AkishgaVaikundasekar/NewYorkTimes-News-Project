@@ -10,8 +10,8 @@ fetchButton.addEventListener("click", () => {
     fetch(url)
         .then(response => response.json())
         .then(data => {
-            articlesContainer.innerHTML = ""; // clear previous articles
-            const articles = data.results.slice(0, 12); // first 12 articles
+            articlesContainer.innerHTML = ""; 
+            const articles = data.results.slice(0, 12); 
             articles.forEach(article => {
                 const div = document.createElement("div");
                 div.className = "article";
